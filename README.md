@@ -4,5 +4,5 @@
 ### Görseller
 
 <div align="center">
-  <img src="İsimsiz video ‐ Clipchamp ile yapıldı (2).mp4" width="auto">
+  <img src="https://github.com/zeynoaydn/Mvc_Simple_CRUD_Operations/blob/main/mvc_gif.gif" width="auto">
 </div>
